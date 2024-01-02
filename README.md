@@ -1,5 +1,25 @@
 # FEDPROFERENCE
-Here we will store the codes and data collected in an experiment in which protein restricted and non-restricted mice were placed in choice boxes to choose between diets varying in ingredients to test their preference as a function of their diet history.
+The repository stores the codes and data files collected in an experiment in which protein restricted and non-restricted mice were placed in choice boxes to choose between diets varying in nutritional value to test their preference as a function of their diet history.
+
+##### Number of animals: 40 mice, 20 male and 20 female
+
+##### Age: 6 weeks at the time of arrival, ~8 weeks at the begining of the experiment depending on batch number
+
+##### Strain:  C57BL/6NRj
+
+
+
+![paradigm](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/source/FEDXD_paradigm.png)
+![paradigm](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/source/FEDXD_protocol.png)
+*The figures show the overview of the 4 batches used in this experiment, plus the overall protocol for each cohort of animals and the choices in "food preference sessions"*
+
+
+##### Cohorots
+* 2 main cohorts of protein-restricted and non-restriced mice, each containing 20 mice distributed in 4 batches
+* **FEDXD01-10 F** and **FEDXD01-10 M** are protein-restricted mice
+* **FEDXD11-20 F** and **FEDXD11-20 M** are non-restricted mice
+* This [Metafile](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/FEDXD_METAFILE.xls) shows the corresponding batches for each mouse 
+
 
 40 mice used in this study, 20 male and 20 female - 10 male PR 10 female PR vs 10 male NR 10 female NR
 The mice started with 3 days of training with FEDs set on FF mode, filled with 50-50% mix of CAS 5 and 20 pellets.
