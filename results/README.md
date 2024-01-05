@@ -1,9 +1,9 @@
 ### Bodyweight
 * no difference in bodyweight of the mice after 20 days of diet manipulation
-
+![bodyweight](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/bodyweight.png)
 ### Food intake
 * After 13 days female PR mice increase their intake however males show a difference after 16 days. However the bodyweight remains similar among the two groups at this point.
-
+![foodintake](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/foodintake.png)
 ### EchoMRI
 After almost 1 month being on diet, only female PR mice have higher fat mass compared to female NR mice. However at the day of scan, female PR mice also have higher body weight
 
@@ -27,5 +27,10 @@ Female and male mice prefer CAS5 over SUC in either groups.
 
 * <font color = "purple">  PR male mice make more pokes to get **CAS5** pellets however total number of pellets taken is similar. PR male mice also make more pokes to get **SUC** pellets however total number of pellets taken is similar, but they have higher number of meals.
 
+
+
+
+
+![groupbreakpoint](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/GroupBreakpointPlot1.png)
 
 
