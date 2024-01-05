@@ -26,7 +26,7 @@ Female and male mice prefer CAS5 over SUC regardless of their diet type.
 
 ##### S4 CAS5 vs SUC CE
 
-![gbpplot](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/gbpplot.png)
+![Gbpplot](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/Gbpplot.png)
 Female and male mice prefer CAS5 over SUC in either groups.
 * <font color = "red"> PR female mice take fewer CAS 5 which is reflected in number of pellets or number of meals, however PR female mice make more poke to get CAS5 but it is not significant. Also PR female mice take fewer SUC pellets during day time.
 
