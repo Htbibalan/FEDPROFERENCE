@@ -31,6 +31,6 @@ Female and male mice prefer CAS5 over SUC in either groups.
 
 
 
-![groupbreakpoint](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/GroupBreakpointPlot1.png)
+![GroupBreakpointPlot1](https://github.com/Htbibalan/FEDPROFERENCE/blob/main/plots/GroupBreakpointPlot1.png)
 
 
