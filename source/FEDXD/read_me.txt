@@ -1,0 +1,1 @@
+This folder contains a subset of the data , that is because Jaime wanted to take a quick look and develop the script for a minimal version of the data once he was flying to the US and I grouped some of the files in this folder.
